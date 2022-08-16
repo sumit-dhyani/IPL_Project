@@ -1,0 +1,18 @@
+{
+  "name": "ipl_project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Project.js",
+  "scripts": {
+    "start":"node Project.js",
+    "first":"node Answer1.js",
+    "second":"node Answer2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
